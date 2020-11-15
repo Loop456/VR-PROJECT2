@@ -1,0 +1,15 @@
+# Blender MTL File: 'Rock2.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.163636 0.163636 0.163636
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\luisa\\Desktop\\Game_Assets\\GameAssets\\Textures\\Rock_2\\Rock_2_n.png
+map_Kd C:\\Users\\luisa\\Desktop\\Game_Assets\\GameAssets\\Textures\\Rock_2\\Rock_2.png
+map_d C:\\Users\\luisa\\Desktop\\Game_Assets\\GameAssets\\Textures\\Rock_2\\Rock_2.png

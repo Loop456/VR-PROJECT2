@@ -1,0 +1,25 @@
+# Blender MTL File: 'ArticFox.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 83.473145
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\luisa\\Desktop\\Game_Assets\\GameAssets\\Textures\\Artic_fox_n.png
+map_Kd C:\\Users\\luisa\\Desktop\\Game_Assets\\GameAssets\\Textures\\Artic_fox.png
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\luisa\\Desktop\\Game_Assets\\GameAssets\\Textures\\Eyes_fox.png
